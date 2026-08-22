@@ -73,6 +73,10 @@ Le code source du macro est aussi disponible séparément dans
 [`Module_BarcodeScan.bas`](./Module_BarcodeScan.bas), importable via l'éditeur VBA
 (`Alt+F11` → `Fichier` → `Importer un fichier`).
 
+## 🪢 Sources utilisées
+
+https://youtu.be/IJQHMFLXk_c?si=aW26mi4R9N8AOxSd
+
 ## 🔒 Confidentialité
 
 ⚠️ Ce dépôt ne contient **aucune donnée réelle** de l'entreprise d'accueil (noms, numéros de
